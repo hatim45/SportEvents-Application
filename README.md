@@ -12,8 +12,7 @@ This is a Spring Boot project for managing sport events. The project includes th
 - [Getting Started](#getting-started)
 - [API Endpoints](#api-endpoints)
 - [Database Schema](#database-schema)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
