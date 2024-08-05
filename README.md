@@ -1,8 +1,5 @@
 # SportEvents-Application
 
-Sure! Below is a sample README for your project.
-
-```markdown
 # Sport Event Management System
 
 This is a Spring Boot project for managing sport events. The project includes the creation of a database with multiple entities, the implementation of all CRUD operations, and the creation of a REST Web API Server.
