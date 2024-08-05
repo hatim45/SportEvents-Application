@@ -49,7 +49,7 @@ The Sport Event Management System allows users to manage sport events, attendees
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/sport-event-management.git
+   git clone https://github.com/hatim45/sport-event-management.git
    cd sport-event-management
    ```
 
@@ -142,19 +142,5 @@ The Sport Event Management System allows users to manage sport events, attendees
 | locationId    | Long    |
 | locationName  | String  |
 
-## Contributing
 
-Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-```
-
-Make sure to replace `your-username` with your actual GitHub username and customize any sections as needed for your specific project setup.
