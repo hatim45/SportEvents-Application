@@ -1,0 +1,16 @@
+spring:
+   datasource:
+      username: sport_event
+      password: sport_event
+      url: jdbc:mysql://localhost:3306/sport_event
+ 
+   jpa:
+      hibernate:
+         ddl-auto: update  
+      show-sql: true
+      defer-datasource-initialization: true
+   sql:
+      init:
+         mode: always
+               
+                    
